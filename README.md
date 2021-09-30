@@ -1,2 +1,1 @@
-# tweet-python 
-pou
+Pour exécuté mon programme tout d'abord téléchargé les code ou là cloné ensuit il y a un ficher tweet.py que vous allez ouvrir avec votre éditeur de texte ou votre invite de commande, c'est la ou que vous allez exécuté le programme pour saisir vos identifiant ou compte twitter afin d'extraire vos 10 dernier tweet
